@@ -1,1 +1,11 @@
 Paulo Antonio Barbosa Fuentes
+
+Como o versionamento funciona.
+Primeiro cria uma pasta para ser versionada, depois
+usa o comando git unit para transfomala em um 
+repositorio. Usa o code . para abrir o vs code e 
+assim vai seguindo com o que vc quer fazer.
+Nunca esqueça que é a primeira vex que está tendo
+contato com esse conteudo, então vai ser complicado 
+mesmo. O imoirtante é não parar e ir pra cima.
+VQV
